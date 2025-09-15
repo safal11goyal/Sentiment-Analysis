@@ -1,0 +1,14 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# NLP
+nltk
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook support
+jupyter
